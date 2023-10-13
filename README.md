@@ -5,7 +5,6 @@ This project aims to predict whether a tumor is malignant or benign using machin
 
 
 ## Dependencies
-- Python 3.x
 - Pandas
 - NumPy
 - Seaborn
